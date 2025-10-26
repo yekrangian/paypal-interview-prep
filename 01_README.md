@@ -72,6 +72,26 @@ This repository contains everything you need to prepare for your PayPal intervie
 - Common questions with quick answers
 - PayPal-specific facts to remember
 
+### 9. **[TECHNICAL_TERMINOLOGY_GUIDE.md](./TECHNICAL_TERMINOLOGY_GUIDE.md)** - Security Terms Explained
+- Complete glossary of security terminologies
+- SAST, DAST, OWASP Top 10 explained
+- OAuth 2.0, JWT, cryptography concepts
+- Cloud security terms
+- AI/ML security vocabulary
+
+### 10. **[code_examples/](./code_examples/)** - Hands-On Code Examples
+- **owasp_web_app/** - OWASP Web App Top 10 (11 files, 6000+ lines)
+- **owasp_llm/** - OWASP LLM Top 10 (12 files, 6000+ lines)
+- Vulnerable and secure code examples
+- Real-world attack scenarios
+- Production-ready security patterns
+
+### 🎥 **Multimedia Resources**
+- **Video Walkthrough** - Comprehensive video of this interview prep package
+  - [Watch Video](https://notebooklm.google.com/notebook/640ea326-b7e8-48ec-92fd-3319cf8de701)
+- **Podcast Discussion** - Audio discussion of key security concepts and strategies
+  - [Listen to Podcast](https://notebooklm.google.com/notebook/640ea326-b7e8-48ec-92fd-3319cf8de701?artifactId=12b72a69-2ca2-4b70-b384-e4027c54ddb9)
+
 ---
 
 ## 🎯 Quick Start Guide
@@ -238,6 +258,13 @@ Follow the **30-Day Preparation Plan** in `02_INTERVIEW_PREP.md`:
 - **Schneier on Security** (https://www.schneier.com/)
 - **Google Project Zero Blog** (https://googleprojectzero.blogspot.com/)
 - **OWASP Blog** (https://owasp.org/blog/)
+
+### 🎥 Video & Audio Resources
+- **Interview Prep Video** - Comprehensive video walkthrough of this preparation package
+  - https://notebooklm.google.com/notebook/640ea326-b7e8-48ec-92fd-3319cf8de701
+
+- **Interview Prep Podcast** - Audio discussion of key security concepts and interview strategies
+  - https://notebooklm.google.com/notebook/640ea326-b7e8-48ec-92fd-3319cf8de701?artifactId=12b72a69-2ca2-4b70-b384-e4027c54ddb9
 
 ---
 
