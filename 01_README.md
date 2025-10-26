@@ -266,6 +266,12 @@ Follow the **30-Day Preparation Plan** in `02_INTERVIEW_PREP.md`:
 - **Interview Prep Podcast** - Audio discussion of key security concepts and interview strategies
   - https://notebooklm.google.com/notebook/640ea326-b7e8-48ec-92fd-3319cf8de701?artifactId=12b72a69-2ca2-4b70-b384-e4027c54ddb9
 
+- **Interview Prep Flashcard** 
+  - https://notebooklm.google.com/notebook/640ea326-b7e8-48ec-92fd-3319cf8de701?artifactId=12267bdc-0892-4274-99a4-599305b6f15a
+
+- **Interview Prep Security Quiz** 
+  - https://notebooklm.google.com/notebook/640ea326-b7e8-48ec-92fd-3319cf8de701?artifactId=0cb2061a-6c4f-4164-93e1-9e1dfed5282e
+
 ---
 
 ## 🎤 Sample Questions You Should Be Ready For
